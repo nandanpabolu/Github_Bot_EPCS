@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Alice Smith",
+      "githubUsername": "aliceGH",
+      "projectName": "Solar Calculator",
+      "projectPartner": "Sustainability Office"
+    },
+    {
+      "name": "Bob Johnson",
+      "githubUsername": "bobGH",
+      "projectName": "Inventory Tracking",
+      "projectPartner": "Hope Restored Missions"
+    },
+    {
+      "name": "Charlie Davis",
+      "githubUsername": "charlieGH",
+      "projectName": "Reading Huddle App",
+      "projectPartner": "Friends of MLK"
+    },
+    {
+      "name": "Dana Lee",
+      "githubUsername": "danaGH",
+      "projectName": "Solar Calculator",
+      "projectPartner": "Sustainability Office"
+    },
+    {
+      "name": "Evan Brown",
+      "githubUsername": "evanGH",
+      "projectName": "Inventory Tracking",
+      "projectPartner": "Hope Restored Missions"
+    }
+    // Add more students as needed
+  ]
+  
